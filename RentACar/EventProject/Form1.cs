@@ -62,9 +62,7 @@ namespace EventProject
             {
                 if(kayitOl())
                 {
-                    Hide();
-                    panel = new AracPanel();
-                    panel.Show();
+                    MessageBox.Show("Kayýt Baþarýlý !");
                 }
                 
             }else
