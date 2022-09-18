@@ -1,0 +1,12 @@
+C:\Users\alide\source\repos\RENTACARKUTUPHANE\RENTACARKUTUPHANE\bin\Debug\net6.0\RENTACARKUTUPHANE.deps.json
+C:\Users\alide\source\repos\RENTACARKUTUPHANE\RENTACARKUTUPHANE\bin\Debug\net6.0\RENTACARKUTUPHANE.dll
+C:\Users\alide\source\repos\RENTACARKUTUPHANE\RENTACARKUTUPHANE\bin\Debug\net6.0\RENTACARKUTUPHANE.pdb
+C:\Users\alide\source\repos\RENTACARKUTUPHANE\RENTACARKUTUPHANE\obj\Debug\net6.0\RENTACARKUTUPHANE.csproj.AssemblyReference.cache
+C:\Users\alide\source\repos\RENTACARKUTUPHANE\RENTACARKUTUPHANE\obj\Debug\net6.0\RENTACARKUTUPHANE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\source\repos\RENTACARKUTUPHANE\RENTACARKUTUPHANE\obj\Debug\net6.0\RENTACARKUTUPHANE.AssemblyInfoInputs.cache
+C:\Users\alide\source\repos\RENTACARKUTUPHANE\RENTACARKUTUPHANE\obj\Debug\net6.0\RENTACARKUTUPHANE.AssemblyInfo.cs
+C:\Users\alide\source\repos\RENTACARKUTUPHANE\RENTACARKUTUPHANE\obj\Debug\net6.0\RENTACARKUTUPHANE.csproj.CoreCompileInputs.cache
+C:\Users\alide\source\repos\RENTACARKUTUPHANE\RENTACARKUTUPHANE\obj\Debug\net6.0\RENTACARKUTUPHANE.dll
+C:\Users\alide\source\repos\RENTACARKUTUPHANE\RENTACARKUTUPHANE\obj\Debug\net6.0\refint\RENTACARKUTUPHANE.dll
+C:\Users\alide\source\repos\RENTACARKUTUPHANE\RENTACARKUTUPHANE\obj\Debug\net6.0\RENTACARKUTUPHANE.pdb
+C:\Users\alide\source\repos\RENTACARKUTUPHANE\RENTACARKUTUPHANE\obj\Debug\net6.0\ref\RENTACARKUTUPHANE.dll
