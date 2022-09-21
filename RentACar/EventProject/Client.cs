@@ -18,7 +18,7 @@ namespace RentACar
         StreamReader reader;
         public BinaryFormatter bf;
         public IletisimPaketi paket;
-        public Client(string ip="127.0.0.1",int port=2525)
+        public Client(string ip= "127.0.0.1", int port= 2525)
         {
             try
             {
